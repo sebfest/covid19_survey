@@ -7,13 +7,13 @@ following link:
 
 ### Folder structure:
 #
-| Folder  | Description  |
-|---|---|
-| main/data  | Contains data source  |
-| main/design  | Contains qualtrics project file  |
-| main/notebooks  |  Contains jupyter notebooks |
-| main/presentation  |  Contains presentation |
-| main/reports  |  Contains Figures and Tables |
+| Folder            | Description                     |
+|-------------------|---------------------------------|
+| main/data         | Contains data source            |
+| main/design       | Contains qualtrics project file |
+| main/notebooks    | Contains jupyter notebooks      |
+| main/presentation | Contains presentation           |
+| main/reports      | Contains Figures and Tables     |
 
 ***
 Author: [Sebastian Fest](http://sebfest.pythonanywhere.com/), 16.04.2020
